@@ -48,7 +48,4 @@ Query (no-body): latitude, longitude, techs
 - Expo-location
 - React-native-webview
 - Axios
-- Socket.io
-
-* Todas as bibliotecas estão no link da planilha com uma explicação breve de cada uma (separados por aba), recomendo um entendimento mais amplo do socket.io, pois o modo de funcionamento não é tão simples.
 
