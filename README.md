@@ -2,7 +2,6 @@
 Aplicação para localização de desenvolvedores por geolocalização e tecnologias utilizadas pelos mesmos
 
 # Como iniciar backend:
-- Utilize a planilha para instalar os programas
 - Configure a conexão com o mongo Atlas no arquivo src/index.js
 - Rode o comando: yarn dev
 
