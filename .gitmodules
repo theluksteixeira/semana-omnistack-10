@@ -1,0 +1,3 @@
+[submodule "frontend"]
+	path = frontend
+	url = C:\\wamp64\\www\\rocketseat\\semana-omnistack-10\\semana-omnistack-10\\frontend
