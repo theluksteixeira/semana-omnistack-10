@@ -1,4 +1,4 @@
-# Semana-Oministack-10 (dev em Windows)
+# Semana-Oministack-10
 Aplicação para localização de desenvolvedores por geolocalização e tecnologias utilizadas pelos mesmos
 
 # Como iniciar backend:
